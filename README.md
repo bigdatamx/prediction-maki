@@ -15,85 +15,70 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# [Apache PredictionIO (incubating)](http://predictionio.incubator.apache.org)
+# [MAKI PredictionIO]
 
-[![Build
-Status](https://api.travis-ci.org/apache/incubator-predictionio.svg?branch=develop)](https://travis-ci.org/apache/incubator-predictionio)
-
-Apache PredictionIO (incubating) is an open source machine learning framework
-for developers, data scientists, and end users. It supports event collection,
-deployment of algorithms, evaluation, querying predictive results via REST APIs.
-It is based on scalable open source services like Hadoop, HBase (and other DBs),
-Elasticsearch, Spark and implements what is called a Lambda Architecture.
-
-To get started, check out http://predictionio.incubator.apache.org!
+[Apache PredictionIO](http://predictionio.incubator.apache.org) es un framework open source para
+machine learning. Este proyecto adapta los algoritmos para ayudar a pymes mexicanas a explotar su
+información con analitica avanzada, sin necesidad de adquirir productos especializados que pueden 
+representar grandes inversiones. Puede procesar diferentes fuentes de datos como facturas electrónicas,
+archivos, bases de datos relacionales, servicios web, entre otras.
+Esta basado en servicios escalables open source como Hadoop, HBase, Mysql, Postgresql,
+Elasticsearch, Spark y esta implementado en una arquitectura llamada Lambda.
 
 
-## Table of contents
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Bugs and Feature Requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community](#community)
+## Contenido
+- [Instalacion](#installation)
+- [Inicio Rápido](#quick-start)
+- [Defectos y solicitudes](#bugs-and-feature-requests)
+- [Documentación](#documentation)
+- [Contribución](#contributing)
+- [Comunidad](#community)
 
 
-## Installation
+## Instalación
 
-A few installation options available.
+Opciones de instalación.
 
-*   [Installing Apache PredictionIO (incubating) from Source
-    Code](http://predictionio.incubator.apache.org/install/install-sourcecode/)
-*   [Installing Apache PredictionIO (incubating) with
+*   [Instalacion MAKI PredictionIO desde codigo
+    ](http://predictionio.incubator.apache.org/install/install-sourcecode/)
+*   [Instalacion MAKI PredictionIO con
     Docker](http://predictionio.incubator.apache.org/community/projects/#docker-installation-for-predictionio)
-    (community contributed)
+    
+
+## Inicio Rápido
+
+*   [Engine Template Inicio
+    Rapido](http://predictionio.incubator.apache.org/templates/recommendation/quickstart/)
+    Guia
 
 
-## Quick Start
+## Defectos y solicitudes
 
-*   [Recommendation Engine Template Quick
-    Start](http://predictionio.incubator.apache.org/templates/recommendation/quickstart/)
-    Guide
-*   [Similiar Product Engine Template Quick
-    Start](http://predictionio.incubator.apache.org/templates/similarproduct/quickstart/)
-    Guide
-*   [Classification Engine Template Quick
-    Start](http://predictionio.incubator.apache.org/templates/classification/quickstart/)
-    Guide
+Usa [Apache JIRA](https://issues.apache.org/jira/browse/PIO) para reportar defectos y solicitar nuevas funcionalidades.
 
+## Documentación
 
-## Bugs and Feature Requests
-
-Use [Apache JIRA](https://issues.apache.org/jira/browse/PIO) to report bugs or request new features.
-
-## Documentation
-
-Documentation, included in this repo in the `docs/manual` directory, is built
-with [Middleman](http://middlemanapp.com/) and publicly hosted at
+Documentación está incluida en este repositorio en el directorio `docs/manual`, esta construido
+con [Middleman](http://middlemanapp.com/) y publicado en
 [predictionio.incubator.apache.org](http://predictionio.incubator.apache.org/).
 
-Interested in helping with our documentation? Read [Contributing
+Te interesa ayudar con la documentacion? Lee [Contributing
 Documentation](http://predictionio.incubator.apache.org/community/contribute-documentation/).
 
 
-## Community
+## Comunidad
 
-Keep track of development and community news.
+Da seguimiento de las noticias de desarrollo y la comunidad.
 
-*   Subscribe to the user mailing list <mailto:user-subscribe@predictionio.incubator.apache.org>
-    and the dev mailing list <mailto:dev-subscribe@predictionio.incubator.apache.org>
-*   Follow [@predictionio](https://twitter.com/predictionio) on Twitter.
+*   Siguenos [@bigdatadevs](https://twitter.com/bigdatadevs) en Twitter.
 
 
-## Contributing
+## Contribución
 
-Read the [Contribute Code](http://predictionio.incubator.apache.org/community/contribute-code/) page.
-
-You can also list your projects on the [Community Project
-page](http://predictionio.incubator.apache.org//community/projects/).
+Lee la página[Contribute Code](http://predictionio.incubator.apache.org/community/contribute-code/).
 
 
-## License
+## Licencia
 
-Apache PredictionIO (incubating) is under [Apache 2
+MAKI PredictionIO [Apache 2
 license](http://www.apache.org/licenses/LICENSE-2.0.html).

@@ -15,7 +15,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# [MAKI PredictionIO]
+# MAKI PredictionIO
 
 [Apache PredictionIO](http://predictionio.incubator.apache.org) es un framework open source para
 machine learning. Este proyecto adapta los algoritmos para ayudar a pymes mexicanas a explotar su
@@ -27,7 +27,7 @@ Elasticsearch, Spark y esta implementado en una arquitectura llamada Lambda.
 
 
 ## Contenido
-- [Instalacion](#installation)
+- [Instalación](#installation)
 - [Inicio Rápido](#quick-start)
 - [Defectos y solicitudes](#bugs-and-feature-requests)
 - [Documentación](#documentation)
